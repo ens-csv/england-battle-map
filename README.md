@@ -1,3 +1,5 @@
+Click anywhere on the map to create a battlefield pin, attach a historical painting, and manage entries with full CRUD functionality.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
