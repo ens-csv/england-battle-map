@@ -1,3 +1,5 @@
+# England Battle Map
+
 Click anywhere on the map to create a battlefield pin, attach a historical painting, and manage entries with full CRUD functionality.
 
 # Getting Started with Create React App
